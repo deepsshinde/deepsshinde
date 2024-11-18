@@ -8,9 +8,18 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineer** and **Fro
 ## 🚀 About Me  
 - 🎓 **Final Year Engineering Student**  
 - 🌱 Currently learning **Spring Boot** and enhancing my knowledge of **DSA**.  
-- 💼 Preparing for a career as an **Software Engineer**.  
-- 📫 Reach me at: **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptii-14a10b25b/)**
-- 📫 Reach me at: **[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:deeptishinde08@gmail.com)**
+- 💼 Preparing for a career as an **Software Engineer**.
+
+---
+### **Let's Connect!**  
+![Handshake](https://media.giphy.com/media/xUOxf7cPCi1fpbblmA/giphy.gif)
+
+- **GitHub:** [Spyware007](https://github.com/deepsshinde)
+- **LinkedIn:** [Spyware](https://www.linkedin.com/in/deeptii-14a10b25b/)
+- **Email:** [omgawandeofficial9834899149@gmail.com](mailto:deeptishinde08@gmail.com)
+- **Instagram:** [Spyware007](https://www.instagram.com/_deeptii.9_)
+
+
 
 
 ---
