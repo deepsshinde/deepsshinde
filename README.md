@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineer** and **Fro
 ### **Let's Connect!**  
 ![Handshake](https://media.giphy.com/media/xUOxf7cPCi1fpbblmA/giphy.gif)
 
-- **GitHub:** [Spyware007](https://github.com/deepsshinde)
-- **LinkedIn:** [Spyware](https://www.linkedin.com/in/deeptii-14a10b25b/)
-- **Email:** [omgawandeofficial9834899149@gmail.com](mailto:deeptishinde08@gmail.com)
-- **Instagram:** [Spyware007](https://www.instagram.com/_deeptii.9_)
+- **GitHub:** [Deepsshinde](https://github.com/deepsshinde)
+- **LinkedIn:** [Dipti Shinde](https://www.linkedin.com/in/deeptii-14a10b25b/)
+- **Email:** [deeptishinde08@gmail.com](mailto:deeptishinde08@gmail.com)
+- **Instagram:** [_deeptii.9_](https://www.instagram.com/_deeptii.9_)
 
 
 
