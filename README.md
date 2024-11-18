@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I’m a passionate **Software Engineer** and **Frontend Developer** with experience in building dynamic and user-friendly applications. Currently, I’m in my final year of engineering, exploring new technologies and sharpening my skills.
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=yourGitHubUsername)
 
 ## 🚀 About Me  
 - 🎓 **Final Year Engineering Student**  
