@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineer** and **Fro
 - 🌱 Currently learning **Spring Boot** and enhancing my knowledge of **DSA**.  
 - 💼 Preparing for a career as an **Software Engineer**.  
 - 📫 Reach me at: **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptii-14a10b25b/)**
+- - 📫 Reach me at: **[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:deeptishinde08@gmail.com)**
 
 
 ---
