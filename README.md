@@ -54,11 +54,7 @@ A web portal offering customized insurance plans.
 **Tech Stack:** PHP, HTML, CSS, JavaScript, MySQL  
 - Recommends insurance plans based on user inputs.  
 
----
-
-## 🏆 Fun Facts  
-- 🐱 I recently adopted a cute black cat with white paws.  
-- 🌟 I enjoy creating relatable Instagram reels and memes in my free time.  
+---  
 
 ---
 
