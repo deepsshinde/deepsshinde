@@ -2,7 +2,7 @@
 
 Security & Data Engineer passionate about building resilient, automated systems.
 Experience with log ingestion, normalization (OCSF), anomaly detection, and cloud-native architectures.
-Exploring AI-powered security operations and intelligent automation.
+Exploring AI-powered security operations and intelligent automation. #
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=yourGitHubUsername)
 
