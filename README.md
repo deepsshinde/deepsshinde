@@ -1,14 +1,15 @@
 # Hi there, I'm Dipti Shinde! 👋  
 
-Welcome to my GitHub profile! I’m a passionate **Software Engineer** and **Frontend Developer** with experience in building dynamic and user-friendly applications. Currently, I’m in my final year of engineering, exploring new technologies and sharpening my skills.
-
+Security & Data Engineer passionate about building resilient, automated systems.
+Experience with log ingestion, normalization (OCSF), anomaly detection, and cloud-native architectures.
+Exploring AI-powered security operations and intelligent automation.
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=yourGitHubUsername)
 
 ## 🚀 About Me  
-- 🎓 **Final Year Engineering Student**  
-- 🌱 Currently learning **Spring Boot** and enhancing my knowledge of **DSA**.  
-- 💼 Preparing for a career as an **Software Engineer**.
+- 🎓 **Data Engineer Intern**  
+- 🌱 Currently expanding my knowledge in **Data Engineering**,**GenAI** and **Data Security**.  
+- 💼 Preparing for a career as an **Data Engineer/ Security Data Engineer**.
 - 📫 Reach me at: **[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:deeptishinde08@gmail.com)**
 - 📫 Reach me at: **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptii-14a10b25b/)**
 
