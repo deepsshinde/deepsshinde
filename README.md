@@ -1,13 +1,13 @@
 # Hi there, I'm Dipti Shinde! 👋  
 ---
-#### Security & Data Engineer passionate about building resilient, automated systems.
+#### Data and Security Engineer passionate about building resilient, automated systems.
 #### Experience with log ingestion, normalization (OCSF), anomaly detection, and cloud-native architectures.
 #### Exploring AI-powered security operations and intelligent automation. 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=yourGitHubUsername)
 
 ## 🚀 About Me  
-- 🎓 **Data Engineer Intern**  
+- 🎓 *Trainee Engineer**  
 - 🌱 Currently expanding my knowledge in **Data Engineering**,**GenAI** and **Data Security**.  
 - 💼 Preparing for a career as an **Data Engineer/ Security Data Engineer**.
 - 📫 Reach me at: **[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:deeptishinde08@gmail.com)**
@@ -37,25 +37,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsshinde&layout=compact&theme=radical)  
 
 ---
-
-## 🚀 Featured Projects  
-
-### 1. [LiveWell Accommodation System](https://github.com/deepsshinde/LiveWell_FrontEnd)  
-A system designed to help students find secure accommodations.  
-**Tech Stack:** Java, React.js, MySQL  
-- Enhanced security and automated payment features.  
-
-### 2. [GPS-based Biometric Attendance System](https://github.com/yourrepo)  
-An Android application for attendance management.  
-**Tech Stack:** Java, PHP, MySQL  
-- Utilizes GPS for location-based attendance verification.  
-
-### 3. [Insurance Management System](https://github.com/yourrepo)  
-A web portal offering customized insurance plans.  
-**Tech Stack:** PHP, HTML, CSS, JavaScript, MySQL  
-- Recommends insurance plans based on user inputs.  
-
----  
+ 
 
 ---
 
